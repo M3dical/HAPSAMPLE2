@@ -1,3 +1,5 @@
+Please cite the paper "HAP-SAMPLE2: Data-based Resampling for Association Studies with Admixture", Sun, et al. Bioinformatics, 2025. 
+
 # HAP-SAMPLE2
 
 Code for Data-based Resampling for Association Studies with Admixture
