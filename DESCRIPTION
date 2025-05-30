@@ -11,6 +11,6 @@ RoxygenNote: 7.2.3
 Imports: utils, stats, graphics, parallel, vcfR, matrixStats,
         doParallel, foreach
 NeedsCompilation: no
-Packaged: 2024-06-12 18:46:44 UTC; pjgalli2
+Packaged: 2024-06-12 18:46:44 UTC
 Author: Dr. Yi-Hui Zhou's Group [aut, cre]
 Maintainer: Dr. Yi-Hui Zhou's Group <yihui_zhou@ncsu.edu>
