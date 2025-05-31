@@ -3,7 +3,7 @@ Type: Package
 Title: Data-based Resampling for Association Studies with Admixture
 Version: 0.1.0
 Authors@R: person("Dr. Yi-Hui Zhou's Group", role=c("aut","cre"), email="yihui_zhou@ncsu.edu")
-Description: Leave it blank for now.
+Description: Extends the functionality of the original HAP-SAMPLE tool to simulate genotype-phenotype data with support for population admixture and rare variant analysis. Users can specify parameters such as disease prevalence and allele effect sizes for both common and rare variants. Supports artificial recombination for simulating admixed populations or maintaining substructures. Includes burden testing for rare variants using fixed and Madsen-Browning weighting schemes. Designed for scalability and suitable for large-scale studies such as those based on the 1000 Genomes Project. For details, see Sun et al. (2025), "HAP-SAMPLE2: Data-based Resampling for Association Studies with Admixture", Bioinformatics.
 License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
